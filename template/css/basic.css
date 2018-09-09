@@ -393,6 +393,10 @@ body {
 	opacity: 0.1;
 }
 
+#greetings {
+	padding-top: 15px;
+}
+
 /*
 	5. Typography
 */
@@ -1027,4 +1031,3 @@ textarea.error::-webkit-input-placeholder {
 	}
 
 }
-
